@@ -1,0 +1,29 @@
+.~*
+__pycache__/
+*.pyc
+*.out
+
+# Jupyter/IPython notebook files
+.ipynb_checkpoints
+
+# Experimental TEST scripts
+*_TEST.py
+*_TEMP.py
+*_TEMP.ipynb
+
+# Ignore any file/dir/symlink starting with TEST:
+TEST*
+
+# VS Code workspace
+*.code-workspace
+
+# Project-specific
+
+
+# Ignore any file/dir/symlink starting w/ these names:
+update_*
+bu*
+import*
+export*
+reference*
+img*
